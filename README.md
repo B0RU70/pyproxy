@@ -24,10 +24,9 @@ To install proxy.py, simply:
     $ bash debian-installer.sh
 (Use you vps os bash script run)
 
-Using docker:
 
-   Proxy Logs DİR: pyproxy/configs/proxyl.txt
+   Proxy Logs DİR: pyproxy/configs/proxylogs.txt
 
--THERABBİT
+-THERABBİT http://fb.me/g0d.py
 
 
