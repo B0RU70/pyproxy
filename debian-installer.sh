@@ -5,6 +5,7 @@ apt-get install python
 apt-get install nohup
 apt-get install python-pip
 pip install --upgrade configs/proxy.py
+python configs/setup.py
 clear
 clear
 echo "Close Putty Your Proxy is=  $IP : 8080"
