@@ -28,8 +28,8 @@ VERSION = (0, 4)
 __version__ = '.'.join(map(str, VERSION[0:2]))
 __description__ = 'Lightweight HTTP, HTTPS, WebSockets Proxy Server in a single Python file'
 __author__ = 'Abhinav Singh'
-__author_email__ = 'mailsforabhinav@gmail.com'
-__homepage__ = 'https://github.com/abhinavsingh/proxy.py'
+__author_email__ = 'b0ru70@ajanlar.org'
+__homepage__ = 'https://github.com/B0RU70/pyproxy'
 __download_url__ = '%s/archive/master.zip' % __homepage__
 __license__ = 'BSD'
 
