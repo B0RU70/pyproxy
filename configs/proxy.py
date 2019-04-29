@@ -5,9 +5,6 @@
     ~~~~~~~~
 
     HTTP Proxy Server in Python.
-
-    :copyright: (c) 2013-2018 by Abhinav Singh.
-    :license: BSD, see LICENSE for more details.
 """
 import os
 import sys
